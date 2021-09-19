@@ -6,5 +6,5 @@
 
 - 📫 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-souza-709254213/)](https://www.linkedin.com/in/higor-souza-709254213/) 
+- [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-souza-709254213/)](https://www.linkedin.com/in/higor-souza-709254213/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hgrprofissional@gmail.com)](mailto:hgrprofissional@gmail.com)
