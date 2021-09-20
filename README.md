@@ -1,4 +1,4 @@
-### Welcome to my profile <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Welcome to my repo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🌱 I’m currently learning:
 
